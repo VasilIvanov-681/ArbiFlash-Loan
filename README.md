@@ -18,9 +18,6 @@ ArbiFlash provides secure, gas-optimized flash loan infrastructure for the Arbit
 - **Our Solution**: Public infrastructure with minimal fees to boost ecosystem activity
 - **Impact**: Expected to facilitate $10M+ daily volume in arbitrage and liquidations
 
-## 🏗️ Architecture
-
-[Add architecture diagram here]
 
 ## 🔒 Security Features
 - ✅ Circuit breaker for anomaly detection
